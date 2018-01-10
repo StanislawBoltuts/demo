@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\LABS_NET\Lab1\bin\Debug\Lab1.dll
+C:\Users\User\Desktop\LABS_NET\Lab1\bin\Debug\Lab1.pdb
+C:\Users\User\Desktop\LABS_NET\Lab1\obj\Debug\Lab1_tree.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LABS_NET\Lab1\obj\Debug\Lab1_tree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LABS_NET\Lab1\obj\Debug\Lab1.dll
+C:\Users\User\Desktop\LABS_NET\Lab1\obj\Debug\Lab1.pdb
